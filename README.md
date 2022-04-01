@@ -30,7 +30,7 @@
 </p>
 <hr>
   
-  <h1 align="center">Github</h1>
+  <h1 align="center">Discord</h1>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/663235405382025226.png"></img>
 </p>
