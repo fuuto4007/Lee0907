@@ -1,4 +1,4 @@
-### Hey Everyone! I'm [EternalsDeb](https://github.com/EternalsDev)
+### Hey Everyone! I'm [EternalsDev](https://github.com/EternalsDev)
 <hr>
 <p align="center"><h4 align="center"><samp> About Me </samp></h4></p>
 <div>
@@ -20,5 +20,11 @@
 <hr>
 
 ### Github Stats
-  [![EternalsDev](https://github-readme-stats.vercel.app/api/?username=eternalsdev&count_private=true&theme=tokyonight&showicons=true)]()
-  [![EternalsDev](https://github-readme-stats.vercel.app/api/top-langs/?username=eternalsdev&langs_count=5&theme=tokyonight)]()
+ <p align="center">
+  <a href="https://github.com/EternalsDev"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=eternalsdev&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eternalsdev&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eternalsdev&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eternalsdev&theme=dracula" />
+    </span></a>
+</p>
