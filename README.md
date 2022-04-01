@@ -37,6 +37,8 @@
 </a>
 </p>
   
+  <img src=https://discord.c99.nl/widget/theme-3/663235405382025226.png></img>
+  
 <hr>
 
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
