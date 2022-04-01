@@ -38,7 +38,7 @@
 </p>
   
 <p align="center">
-  <a href="https://discord.c99.nl/widget/theme-2/663235405382025226.png"></a>
+  <img="https://discord.c99.nl/widget/theme-2/663235405382025226.png"/>
   </p>
   
 <hr>
