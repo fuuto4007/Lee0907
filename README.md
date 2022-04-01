@@ -3,6 +3,8 @@
 <div>
   💌 <samp> Hello introduce my name is EternalsDev (anonymous name), I am a web developer & programmer. I am also a gamer who often plays games like Valorant, Mobile Legends, and other games. I currently work in a technology company as a Web Developer. I am self-taught programming, and I really like to learn new things. </samp>
 
+  <hr>
+  
 ### Tools & Languange
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
