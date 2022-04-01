@@ -37,7 +37,9 @@
 </a>
 </p>
   
-  <img src=https://discord.c99.nl/widget/theme-3/663235405382025226.png></img>
+<p align="center">
+  <a href="https://discord.c99.nl/widget/theme-2/663235405382025226.png"></a>
+  </p>
   
 <hr>
 
