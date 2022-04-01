@@ -36,8 +36,10 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=eternalsdev&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
-  
+ 
+<p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/663235405382025226.png"></img>
+</p>
   
 <hr>
 
