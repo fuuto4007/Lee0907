@@ -32,7 +32,7 @@
   
   <h1 align="center">Discord</h1>
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/663235405382025226.png"></img>
+<img src="https://discord.c99.nl/widget/theme-1/893045220399271936.png"></img>
 </p>
   
 <hr>
